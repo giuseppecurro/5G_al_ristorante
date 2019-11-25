@@ -17,6 +17,11 @@ body  {
   cursor: pointer;
 }
 </style>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
 </head>
 <body style="font-family:Century Gothic;">
 <h2 align="center">Ricetta carbonara</h2>
@@ -71,6 +76,6 @@ dovesse risultare troppo asciutta potete aggiungere poca acqua di <br>
 cottura.Servite subito gli spaghetti alla carbonara insaporendoli <br>
 con il pecorino avanzato e il pepe nero macinato.<br>
 </p>
-<button onclick="goBack()" class="button" >Indietro</button>
+<button class="button" onclick="goBack()" >Indietro</button>
 </body>
 </html>
