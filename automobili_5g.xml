@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<preferenze_auto_5g>
+
+  <tipologia category="sportiva">
+       </tipologia>
+
+  <tipologia category="utilitaria">
+    
+    <author>giuseppe curro
+    <marca>Honda jazz</marca>
+    <year>2002</year>
+    <price>10000</price>
+    </author>
+    
+  </tipologia>
+
+  <tipologia category="altro">
+ 
+  </tipologia>
+
+ 
+
+</preferenze_auto_5g>
